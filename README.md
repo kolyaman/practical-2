@@ -36,4 +36,4 @@
     printf("%d\n", lcm_result);
 
     return 0;
-}
+    }
